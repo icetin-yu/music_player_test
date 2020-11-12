@@ -2,9 +2,9 @@
 Yalava Üni Music Player Ödevi
 
 Uygulama bitmemiştir.
-TODO
+# TODO
 remainTime gibi Textviewler çalışmıyor.
 
-Uygulama resimleri
+# Uygulama resimleri
 * https://prnt.sc/vhwky4
 * https://prnt.sc/vhwl51
