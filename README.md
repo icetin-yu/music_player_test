@@ -6,5 +6,5 @@ TODO
 remainTime gibi Textviewler çalışmıyor.
 
 Uygulama resimleri
-https://prnt.sc/vhwky4
-https://prnt.sc/vhwl51
+*https://prnt.sc/vhwky4
+*https://prnt.sc/vhwl51
